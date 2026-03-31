@@ -1,4 +1,9 @@
-# SKILL.md — Generic ArangoDB Development Guide for arangojs Projects
+---
+name: arangodb
+description: Use this skill when the user asks to build ArangoDB-based applications in any project that uses ArangoDB and `arangojs`.
+license: Complete terms in LICENSE.txt
+---
+
 
 ## Purpose
 
